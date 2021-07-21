@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1577376421 source:e:\hygl\main.c
+	"HYGL.h"
+
+1577376421 e:\hygl\hygl.h
+
+1577410355 source:e:\hygl\hygl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"HYGL.h"
+
